@@ -1,0 +1,5 @@
+1) I have used open source code for .html, .css and .js for building this project.
+
+2) I have made required modications in the code using a notepad text editor.
+
+3) I have deployed the final build using Netlify
